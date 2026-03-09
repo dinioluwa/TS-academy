@@ -18,5 +18,6 @@ Jupyter Notebook – interactive analysis
 
 📊 Key Insights
 
-Price distribution across different car brands and segments
+Price distribution across different car brands and segments.
+
 Price distribution and yearly trends across different car brands and colors
